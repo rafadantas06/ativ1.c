@@ -8,6 +8,7 @@ int main() {
 	printf("Prog. II\n");
 	printf("Ciencia da Computacao\n");
 	printf("Turma 02P\n");
+	printf("Fundacao - 1970\n");
 	
 	// pausa antes de terminar o programa
 	system("pause");
